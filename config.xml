@@ -19,7 +19,7 @@
 <access origin="*" />
 <allow-intent href="*" />
 <allow-navigation href="*" />
-<allow-navigation href="*://*.cyborg.ge/*" />
+<allow-navigation href="*://*.mixshop.ge/*" />
 <allow-intent href="http://*/*" launch-external="yes"/>
 	<allow-intent href="https://*/*" launch-external="yes"/>
  <platform name="android">
