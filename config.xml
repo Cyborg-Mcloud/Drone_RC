@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" xmlns:android="http://schemas.android.com/apk/res/android" id="com.designge.dronercgeo" versionCode="1" version="0.0.1" package="com.designge.dronercgeo">
   <name>Drone RC</name>
-  <icon src="icon_1024.png"/>
-  <icon src="icon_1024.png" width="1024" height="1024"/>
+  <icon src="www/icon_1024.png"/>
+  <icon src="www/icon_1024.png" width="1024" height="1024"/>
   <allow-intent href="*"/>
   <allow-navigation href="*"/>
   <allow-navigation href="*://*.mixshop.ge/*"/>
@@ -49,7 +49,7 @@ Drone Remote Control
       <variable name="ANDROID_SUPPORT_VERSION" value="26.0.1"/>
     </plugin>
   </plugins>
-  <preference name="WindowsStorePublisherName" value="My Name"/>
+  <preference name="WindowsStorePublisherName" value="Cyborg-Mcloud"/>
   <preference name="WindowsStoreIdentityName" value="1c217da8-6dfc-68e2-36eb-5847b610ec8b"/>
   <access origin="*"/>
   <preference name="KeepRunning" value="false"/>
