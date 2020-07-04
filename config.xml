@@ -52,7 +52,7 @@ Drone Remote Control
   <preference name="WindowsStorePublisherName" value="Cyborg-Mcloud"/>
   <preference name="WindowsStoreIdentityName" value="1c217da8-6dfc-68e2-36eb-5847b610ec8b"/>
   <access origin="*"/>
-  <preference name="KeepRunning" value="false"/>
+  <preference name="KeepRunning" value="true"/>
   <preference name="monaca:AndroidIsPackageNameSeparate" value="false"/>
   <preference name="DisallowOverscroll" value="true"/>
   <preference name="Orientation" value="landscape"/>
